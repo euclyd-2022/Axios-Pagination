@@ -1,0 +1,9 @@
+#root .app {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.heading img {
+  height: 20%;
+  width: 20%;
+}
